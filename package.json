@@ -1,0 +1,24 @@
+{
+  "name": "nuevo-proyecto-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css css/custom.css --content index.html -0 css/reducido.css"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergiohisto/Proyecto-targeta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergiohisto/Proyecto-targeta/issues"
+  },
+  "homepage": "https://github.com/Sergiohisto/Proyecto-targeta#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
